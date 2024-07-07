@@ -1,0 +1,21 @@
+.background{
+    background-color: #1e202b;
+}
+
+.bgimage{
+    background-image: url(images/Aesthetic-Clouds-Wallpaper-2792x1830-56433.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.upper{
+    font-weight: bold
+    ;
+}
+
+.huge{
+    font-size: 4rem;
+}
+
